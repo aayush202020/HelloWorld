@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197245067194",
+    "project_id": "boilerbubble",
+    "storage_bucket": "boilerbubble.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197245067194:android:411498d2e985c4f46d4783",
+        "android_client_info": {
+          "package_name": "com.example.boilerbubble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzAiaCWsu3FM2l7aiNQaEtfz2OsQv8R1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
